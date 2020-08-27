@@ -17,6 +17,7 @@ layers were described, for example:
 * Resource Manager this layer help access any of game assets.
 * Rendering Engine is the biggest and most complex layer which is responsible for rendering two-dimensional or three-dimensional graphics,
 * Gameplay Foundations, layer consists of a scripting system, dynamic game objects, event/messaging system, et cetera.
+
 And also a few engines were described with their pros and cons moreover, the choice
 of game engines was reasoned.
 In the next part of the thesis, a process of creating games on Unity game engine and
