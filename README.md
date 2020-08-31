@@ -2,7 +2,8 @@
 
 ## Info
 
-Both games were part of the thesis titled "Comparison between Unity Game Engine and GameMaker Studio Engine on the example of platformer game".
+Both games were part of the thesis titled "Comparison between Unity Game Engine and GameMaker Studio Engine on the example of platformer game". 
+(To run game created in GameMakerStudio2 you need to install this game engine.)
 
 ## Summary of the thesis
 
